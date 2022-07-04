@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: omarkataa/app1:latest
+        image: omarkataa/app3:latest
         ports:
         - containerPort: 80
 ---
